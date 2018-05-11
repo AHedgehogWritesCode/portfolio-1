@@ -23,7 +23,7 @@ For the most recent samples, see the [Portfolio page](http://www.ivorydev.com/po
 * [BEA Liquid Data - Creating the Presentation Layer](bea-liquid-data-present.pdf)
 * [BEA Trading Partner Integration - Introducing Trading Partner Integration](bea-trading-partner-intro.pdf)
 * [BEA Trading Partner Integration - Tutorials for Trading Partner Integration](bea-trading-partner-tutorial.pdf)
-* [BEA WebLogic Enterprise - Scaling, Distributing, and Tuning Applications](bea-tune-scale.pdf)
+* [BEA WebLogic Enterprise - Scaling, Distributing, and Tuning Applications](bea-tune-scale.pdf)
 * [BEA WebLogic Integration - Designing BEA WebLogic Integration Solutions](bea-webLogic-integration-design.pdf)
 * [BEA WebLogic Integration - Deploying BEA WebLogic Integration Solutions](bea-weblogic-integration-deploy.pdf)
 
