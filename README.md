@@ -1,17 +1,21 @@
-# Portfolio for Ivory Development Group, Inc. (Supplement)
+# Portfolio for Ivory Development Group, Inc.
 
-For the most recent samples, see the [Portfolio page](http://www.ivorydev.com/portfolio.html) on the Ivory Development Group [website](http://www.ivorydev.com/index.html).
+For recent examples, see [www.ivorydev.com/portfolio.html](http://www.ivorydev.com/portfolio.html).
 
 ## <a id='dev'></a>Developer Documentation
 
 * [Salesforce.com - sforce Web Services Developer's Guide](sforce-api.pdf)
 * [Bea WebLogic Enterprise - Using Transactions](bea-transactions.pdf)
 * [BEA Liquid Data - Invoking Queries Programmatically](bea-liquid-data-invoke.pdf)
+* [NSX-V APIs (RAML/PDF) — partner sections](https://docs.vmware.com/en/VMware-NSX-for-vSphere/6.4/nsx_64_api.pdf)
 * Additional samples available upon request.
 
 ## <a id='int'></a>Integration Documentation
 
 * [VMware Pivotal Container Service (PKS) v1.0](vmware-pks-docs-1.0.pdf)
+* [VMware Photon OS 2.0](https://vmware.github.io/photon/)
+* [VMware Distributed Network Encryption (NSX-T)](https://docs.vmware.com/en/VMware-NSX-T/2.0/com.vmware.nsxt.admin.doc/GUID-94F1967F-ED97-412F-B02C-9B00B0DFC3DF.html)
+* [OVP Introduction](http://help.ooyala.com/video-platform/concepts/ovp_intro.html)
 * [Ooyala Ingestion Guide](ooyala-ingest.pdf)
 * [Ooyala Player v4 Integration Guide](ooyala-pbv4.pdf)
 * [BEA WebLogic Integration - Introducing Application Integration](bea-application-integration-intro.pdf)
