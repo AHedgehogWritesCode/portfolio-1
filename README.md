@@ -4,10 +4,10 @@ For recent examples, see [www.ivorydev.com/portfolio.html](http://www.ivorydev.c
 
 ## <a id='dev'></a>Developer Documentation
 
+* [NSX-V APIs (RAML/PDF) — partner sections](https://docs.vmware.com/en/VMware-NSX-for-vSphere/6.4/nsx_64_api.pdf)
 * [Salesforce.com - sforce Web Services Developer's Guide](sforce-api.pdf)
 * [Bea WebLogic Enterprise - Using Transactions](bea-transactions.pdf)
 * [BEA Liquid Data - Invoking Queries Programmatically](bea-liquid-data-invoke.pdf)
-* [NSX-V APIs (RAML/PDF) — partner sections](https://docs.vmware.com/en/VMware-NSX-for-vSphere/6.4/nsx_64_api.pdf)
 * Additional samples available upon request.
 
 ## <a id='int'></a>Integration Documentation
